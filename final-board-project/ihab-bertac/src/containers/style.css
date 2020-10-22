@@ -1,0 +1,16 @@
+.containerBoard {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+.spin {
+  text-align: center;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  margin: 20px 0;
+}
+
+.workoutContainer {
+  background-color: #f1f1f1c5;
+}
